@@ -95,7 +95,6 @@
     - [AAA](sdn/aaa/README.md)
         - [Radius](sdn/aaa/radius.md)
   - [数据平面](sdn/dataplane.md)
-- [8. NFV](nfv/README.md)
 - [9. SDWAN](sdwan/README.md)
 
 <!--
