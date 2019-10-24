@@ -2,6 +2,8 @@
 
 - [1. 前言](README.md)
 
+## Golang
+- [2. 指针参数传递](golang/pointer.md)
 ## 网络基础
 
 - [2. 网络基础理论](basic/README.md)
@@ -95,7 +97,6 @@
     - [AAA](sdn/aaa/README.md)
         - [Radius](sdn/aaa/radius.md)
   - [数据平面](sdn/dataplane.md)
-- [8. NFV](nfv/README.md)
 - [9. SDWAN](sdwan/README.md)
 
 <!--
