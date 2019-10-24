@@ -3,6 +3,6 @@
 - [前言](README.md)
 
 ## Language
-- [go]
+- [ go ]
   - [指针参数传递](golang/pointer.md)
 
